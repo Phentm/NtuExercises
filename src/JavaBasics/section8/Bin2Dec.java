@@ -24,7 +24,7 @@ public class Bin2Dec {
                 break;
             }
             
-            decNum += Character.getNumericValue(input.charAt(cIndex)) * (Math.pow(2, i));
+            decNum += Character.getNumericValue(input.charAt(cIndex)) * Math.pow(2, i);
         }
         
         //output stage
