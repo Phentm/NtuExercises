@@ -40,7 +40,7 @@ public class RadixN2Dec {
             
             if ( (int)curr > radix + 48                             // (char)48 == '0', validity check does not
                     && radix <= 10) {                               // include A-F characters since case assumes
-                validStr = false;                                      // Radix is less than or equals to 10
+                validStr = false;                                   // Radix is less than or equals to 10
                 break;
             }
             
