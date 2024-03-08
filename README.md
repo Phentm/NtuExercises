@@ -1,6 +1,6 @@
 <div align="center">
 <img src=
-"https://www.java.com/_cache_cdbd/_themesdelivery/JCOM_Base_Theme/assets/img/Java-horz-wht.svg">
+"https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true">
 <h2>Ntu Java Exercises </h2>
 </div>
 <p align="center">
