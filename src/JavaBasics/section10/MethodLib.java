@@ -160,7 +160,6 @@ public class MethodLib {
         }
         
         return newArr;
-        
     }
     
     public static int[] copyOf(int[] arr, int newLength) {
@@ -176,6 +175,45 @@ public class MethodLib {
        }
         
         return newArr;
+    }
+    
+    // EXERCISE 10.10
+    public static boolean swap(int[] arr1, int[] arr2) {
+        
+        if (arr1 == arr2)
+            return true;
+        else if (arr1.length != arr2.length)
+            return false;
+        else if (arr1.length == 0)  // assuming the lengths are the same
+            return true;
+        
+        int temp;
+        
+        for (int i = 0; i < arr1.length; i++) {
+            temp = arr1[i];
+            
+            arr1[i] = arr2[i];
+            
+            arr2[i] = temp;
+        }
+        
+        return true;
+    }
+    
+    // EXERCISE 10.11
+    public static void reverse(int[] arr) {
+        
+        int temp;
+        
+        for (int i = 0; i < arr.length/2; i++) {
+            
+            temp = arr[i];
+            
+            arr[i] = arr[arr.length - 1 - i];
+            
+            arr[arr.length - 1 - i] = temp;
+            
+        }
         
     }
 }
