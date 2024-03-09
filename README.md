@@ -21,7 +21,7 @@ Java Basics| OOP Exercises (TODO)|Graphics Programming(TODO)
 ✅ Nested-Loops|-|-
 ✅ String and char Operations|-|-
 ✅ Arrays|-|-
-❌ Methods|-|-
+✅ Methods|-|-
 ❌ Misc Exercises|-|-
 ❌ Recursion|-|-
 ❌ Algorithms (sorting)|-|-
