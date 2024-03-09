@@ -1,6 +1,6 @@
 package JavaBasics.section10;
 
-public class EqualsDriver {
+public class DriverEquals {
 
     public static void main(String[] args) {
         

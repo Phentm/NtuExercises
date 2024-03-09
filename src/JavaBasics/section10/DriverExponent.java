@@ -2,7 +2,7 @@ package JavaBasics.section10;
 
 import java.util.Scanner;
 
-public class Exponent {
+public class DriverExponent {
 
     public static void main(String[] args) {
         

@@ -1,6 +1,6 @@
 package JavaBasics.section10;
 
-public class ReverseDriver {
+public class DriverReverse {
 
     public static void main(String[] args) {
         

@@ -1,6 +1,6 @@
 package JavaBasics.section10;
 
-public class SwapDriver {
+public class DriverSwap {
 
     public static void main(String[] args) {
         

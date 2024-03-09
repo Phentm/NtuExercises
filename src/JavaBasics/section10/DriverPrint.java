@@ -1,6 +1,6 @@
 package JavaBasics.section10;
 
-public class PrintDriver {
+public class DriverPrint {
 
     public static void main(String[] args) {
         

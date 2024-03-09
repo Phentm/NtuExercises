@@ -2,7 +2,7 @@ package JavaBasics.section10;
 
 import java.util.Arrays;
 
-public class CopyOfDriver {
+public class DriverCopyOf {
 
     public static void main(String[] args) {
         
