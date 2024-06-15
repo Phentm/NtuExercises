@@ -22,7 +22,7 @@ Java Basics| OOP Exercises (TODO)|Graphics Programming(TODO)
 ✅ String and char Operations|-|-
 ✅ Arrays|-|-
 ✅ Methods|-|-
-❌ Misc Exercises|-|-
+✅ Misc Exercises|-|-
 ❌ Recursion|-|-
 ❌ Algorithms (sorting)|-|-
 ❌ Algorithms (number theory)|-|-
