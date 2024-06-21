@@ -23,7 +23,7 @@ public class QuickSort {
         if (toIdx - fromIdx <= 1)
             return true;
         
-        int pivot = ((toIdx - fromIdx)/2)+fromIdx;
+        int pivot = (toIdx + fromIdx) / 2;
         
         swap(arr, pivot, toIdx-1);
         
