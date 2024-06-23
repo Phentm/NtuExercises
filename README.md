@@ -13,16 +13,16 @@ The project is built with the <strong>NetBeans 17</strong> ide running <strong>J
 <br/>
 
 Currently completed chapters:
-Java Basics| OOP Exercises (TODO)|Graphics Programming(TODO)
-|:-|:-:|:-:|
-✅ Getting Started|-|-
-✅ Decision and Loops|-|-
-✅ Input, Decision and loops|-|-
-✅ Nested-Loops|-|-
-✅ String and char Operations|-|-
-✅ Arrays|-|-
-✅ Methods|-|-
-✅ Misc Exercises|-|-
+Java Basics| OOP Exercises |Graphics Programming(TODO)
+|:-:|:-:|:-:|
+✅ Getting Started|❌ Classes|-
+✅ Decision and Loops|❌ Composition|-
+✅ Input, Decision and loops|❌ More Classes|-
+✅ Nested-Loops|❌ Inheritance|-
+✅ String and char Operations|❌ Composition vs. Inheritance|-
+✅ Arrays|❌ Polymorphism, Abstract Classes & Interfaces|-
+✅ Methods|❌ More on OOP|-
+✅ Misc Exercises|❌ Data Structures|-
 ✅ Recursion|-|-
 ✅ Algorithms (sorting)|-|-
 ✅ Algorithms (number theory)|-|-
