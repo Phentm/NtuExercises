@@ -1,6 +1,6 @@
 package JavaBasics.section14;
 
-public class HeapSortNoRecursion {
+public class IterativeHeapSort {
 
     public static void main(String[] args) {
         
