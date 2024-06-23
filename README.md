@@ -24,5 +24,5 @@ Java Basics| OOP Exercises (TODO)|Graphics Programming(TODO)
 ✅ Methods|-|-
 ✅ Misc Exercises|-|-
 ✅ Recursion|-|-
-❌ Algorithms (sorting)|-|-
+✅ Algorithms (sorting)|-|-
 ❌ Algorithms (number theory)|-|-
