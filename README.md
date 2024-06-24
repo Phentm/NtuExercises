@@ -15,7 +15,7 @@ The project is built with the <strong>NetBeans 17</strong> ide running <strong>J
 Currently completed chapters:
 Java Basics| OOP Exercises |Graphics Programming(TODO)
 |:-:|:-:|:-:|
-✅ Getting Started|❌ Classes|-
+✅ Getting Started|✅ Classes|-
 ✅ Decision and Loops|❌ Composition|-
 ✅ Input, Decision and loops|❌ More Classes|-
 ✅ Nested-Loops|❌ Inheritance|-
