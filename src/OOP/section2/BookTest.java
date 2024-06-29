@@ -4,11 +4,12 @@ public class BookTest {
 
     public static void main(String[] args) {
         
-        // Construct an author instance
-        Author ahTeck = new Author("Tan Ah Teck", "ahteck@nowhere.com", 'm');
-        System.out.println(ahTeck);  // Author's toString()
+        // Declare Authors list array
+        Author[] authors = new Author[2];
+        authors[0] = new Author("Tan Ah Teck", "AhTeck@somewhere.com", 'm');
+        authors[1] = new Author("Paul Tan", "Paul@nowhere.com", 'm');
 
-        Book dummyBook = new Book("Java for dummy", ahTeck, 19.95, 99);  // Test Book's Constructor
+        Book dummyBook = new Book("Java for dummy", authors, 19.95, 99);  // Test Book's Constructor
         System.out.println(dummyBook);  // Test Book's toString()
         
         // Test Getters and Setters
@@ -17,20 +18,20 @@ public class BookTest {
         System.out.println("name is: " + dummyBook.getName());
         System.out.println("price is: " + dummyBook.getPrice());
         System.out.println("qty is: " + dummyBook.getQty());
-        System.out.println("Author is: " + dummyBook.getAuthor());  // Author's toString()
-        System.out.println("Author's name is: " + dummyBook.getAuthor().getName());
-        System.out.println("Author's email is: " + dummyBook.getAuthor().getEmail());
+        System.out.println("Author is: " + dummyBook.getAuthors()[0].toString());  // Author's toString()
+        System.out.println("Author's name is: " + dummyBook.getAuthors()[0].getName());
+        System.out.println("Author's email is: " + dummyBook.getAuthors()[0].getEmail());
         
         // Use an anonymous instance of Author to construct a Book instance
-        Book anotherBook = new Book("more Java",
-                new Author("Paul Tan", "paul@somewhere.com", 'm'), 29.95);
+        Author[] author = {new Author("Paul Tan", "paul@somewhere.com", 'm')};
+        Book anotherBook = new Book("more Java", author, 29.95);
         System.out.println(anotherBook);  // toString()
         
         System.out.println("-------------------------------------------------");
         
         // Getting data from an author of a book
-        System.out.println(dummyBook.getAuthor().getName());
-        System.out.println(dummyBook.getAuthor().getEmail());
+        System.out.println(dummyBook.getAuthorNames());
+        System.out.println(dummyBook.getAuthorEmails());
     }
 
 }
