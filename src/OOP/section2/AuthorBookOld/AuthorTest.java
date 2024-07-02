@@ -1,4 +1,4 @@
-package OOP.section2;
+package OOP.section2.AuthorBookOld;
 
 public class AuthorTest {
 
