@@ -1,4 +1,4 @@
-package OOP.section2.Ex2_06;
+package OOP.section2.Ex_06;
 
 public class MyPointArray {
 

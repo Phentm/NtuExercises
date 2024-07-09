@@ -1,4 +1,4 @@
-package OOP.section2.Ex2_04;
+package OOP.section2.Ex_04;
 
 public class TestInvoiceCustomer {
 

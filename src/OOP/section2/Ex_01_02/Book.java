@@ -1,4 +1,4 @@
-package OOP.section2.Ex2_01_02;
+package OOP.section2.Ex_01_02;
 
 public class Book {
     

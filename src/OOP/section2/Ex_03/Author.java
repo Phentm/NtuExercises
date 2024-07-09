@@ -1,4 +1,4 @@
-package OOP.section2.Ex2_03;
+package OOP.section2.Ex_03;
 
 public class Author {
     
