@@ -16,7 +16,7 @@ Currently completed chapters:
 Java Basics| OOP Exercises |Graphics Programming(TODO)
 |:-:|:-:|:-:|
 ✅ Getting Started|✅ Classes|-
-✅ Decision and Loops|❌ Composition|-
+✅ Decision and Loops|✅ Composition|-
 ✅ Input, Decision and loops|❌ More Classes|-
 ✅ Nested-Loops|❌ Inheritance|-
 ✅ String and char Operations|❌ Composition vs. Inheritance|-
